@@ -25,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="barcamp.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="barcamp.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/barcamp.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5185185">
-              <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.58247423">
+              <caret line="237" column="16" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5240532">
-              <caret line="195" column="41" selection-start-line="195" selection-start-column="41" selection-end-line="195" selection-end-column="41" />
+            <state vertical-scroll-proportion="-10.392157">
+              <caret line="279" column="19" selection-start-line="279" selection-start-column="19" selection-end-line="279" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -51,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -62,8 +63,9 @@
         <option value="$PROJECT_DIR$/views/main/home.erb" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.erb" />
-        <option value="$PROJECT_DIR$/css/barcamp.css" />
+        <option value="$PROJECT_DIR$/img/part3/mouste.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/barcamp.css" />
       </list>
     </option>
   </component>
@@ -234,6 +236,7 @@
     <property name="recentsLimit" value="5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/samuelstephen/Sites/barcamp/css/barcamp.css" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -590,18 +593,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/barcamp.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5185185">
-          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.392157">
+          <caret line="279" column="19" selection-start-line="279" selection-start-column="19" selection-end-line="279" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/barcamp.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5240532">
-          <caret line="195" column="41" selection-start-line="195" selection-start-column="41" selection-end-line="195" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.58247423">
+          <caret line="237" column="16" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
           <folding />
         </state>
       </provider>
